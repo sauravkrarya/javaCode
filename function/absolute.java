@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class absolute {
 
-
-
   public static float absolute(float abs){
     return abs *-1;
   }
@@ -14,7 +12,7 @@ public class absolute {
         System.out.println("enter the number :");
         float abs =sc.nextFloat();
         float a =absolute(abs);
-        System.out.println("Absolute value of the number is:" + a);
+        System.out.println("Absolute value of the number is: " + a);
         
     }
     
