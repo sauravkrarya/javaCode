@@ -10,6 +10,7 @@ public class pattern14 {
             System.out.print(" ");
         }
         System.out.println();
-    }}
+    }
+  }
     
 }
