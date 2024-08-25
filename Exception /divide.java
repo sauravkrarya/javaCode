@@ -1,5 +1,5 @@
 
-import java.lang.*;
+// import java.lang.*;
 import java.util.*;
 
 class divide {
