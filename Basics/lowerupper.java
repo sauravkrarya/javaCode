@@ -5,6 +5,7 @@ class lowerupper
         public static void main (String[] args)
     {
         Scanner sc=new Scanner(System.in);
+        System.out.println("enter the character");
         char alp=sc.next().charAt(0);
         int num=(int)alp;
         if (num>=97 && num<=122)
