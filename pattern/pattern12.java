@@ -7,12 +7,12 @@ class pattern12{
            System.out.print(" ");
 
            for(int k=0; k<=i; k++)
-           System.out.print("#");
+           System.out.print("*");
 
            for(int k=0; k<=i-1; k++)
-           System.out.print("#");
+           System.out.print("*");
 
-           System.out.println();
+           System.out.println(" ");
         }
         
 
@@ -22,12 +22,12 @@ class pattern12{
                 System.out.print(" ");
 
             for(int k=4; k>=i; k--)
-                System.out.print("#");
+                System.out.print("*");
 
             for(int k=4; k>i; k--)
-                System.out.print("#");
+                System.out.print("*");
     
-            System.out.println();
+            System.out.println(" ");
         }
     }
 }
