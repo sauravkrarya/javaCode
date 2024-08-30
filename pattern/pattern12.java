@@ -28,6 +28,7 @@ class pattern12{
                 System.out.print("*");
     
             System.out.println(" ");
+            ///jy
         }
     }
 }
