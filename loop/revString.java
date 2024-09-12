@@ -1,4 +1,5 @@
 // Write a Java program that uses a for-loop to reverse a given string.
+import java.util.*;
 class revString{
     public static void main(String[] args) {
         Scanner sc =new Scanner (System.in);
